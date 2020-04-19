@@ -1,0 +1,34 @@
+body{
+    width: 600px;
+    font-size: 20px;
+    margin: auto;
+
+}
+footer{
+    color: rgb(78, 66, 66);
+    margin-top: 20px;
+}
+
+#imgs{
+    width: 100px;
+
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: olive;
+}
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color:blue;
+     
+}
+a:hover{
+    background: orangered;
+}
